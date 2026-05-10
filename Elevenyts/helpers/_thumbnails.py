@@ -79,8 +79,8 @@ class Thumbnail:
             draw = ImageDraw.Draw(bg)
 
             # 
-            left_text = decode_text("QVJUSVNU")        
-            right_text = decode_text("RUxFVkVOWVRT")   
+            left_text = SAHIL        
+            right_text = OSINT   
 
             colors = [(255, 0, 150), (0, 200, 255), (255, 200, 0)]
 
